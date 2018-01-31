@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Damian Chlod damian.chlod@gmail.com
 
 # THANKS
 
